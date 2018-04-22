@@ -2,7 +2,7 @@ clear;
 close all;
 clc;
 
-paths.main = '/media/dboscaini/data/refactored/acnn_data/datasets/FAUST_registrations'; % path to the dataset
+paths.main = 'D:\Github\HumanBody\datasets\FAUST'; % path to the dataset
 params.flag_recompute = 1;
 
 % convert to '.mat' format
